@@ -1,0 +1,5 @@
+links principales : //div[@class="card"]/div[@class="text"]/h2/a[@href]
+titulo dentro de articulo : //h1[@id="spktitle"]/text()
+resumen de la nota : //div[@class="articleHead "]/h2[@id="spksumary"]/text()
+
+articulo : //div[@class="articleBody"]/p/text()
